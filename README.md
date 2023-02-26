@@ -15,13 +15,13 @@ E.g.:
 
 Before usage:  
 ├── root_dir  
-│   ├── branch_1  
-│   │   ├── branch_1_doc.txt  
-│   ├── branch_2  
-│   │   ├── branch_2_2  
-│   │   │     ├── deep_branch.c  
-│   ├── document.txt  
-│   ├── images  
+│&emsp;├── branch_1  
+│&emsp;│&emsp;├── branch_1_doc.txt  
+│&emsp;├── branch_2  
+│&emsp;│&emsp;├── branch_2_2  
+│&emsp;│&emsp;│&emsp;├── deep_branch.c  
+│&emsp;├── document.txt  
+│&emsp;├── images  
 
 
 ```bash
@@ -31,13 +31,13 @@ go run ConcurrentRecursiveRenamer.go root_dir branch child
 After usage:
 
 ├── root_dir  
-│   ├── child_1  
-│   │   ├── child_1_doc.txt  
-│   ├── child_2  
-│   │   ├── child_2_2  
-│   │   │      ├── deep_child.c  
-│   ├── document.txt  
-│   ├── images  
+│&emsp;├── child_1  
+│&emsp;│&emsp;├── child_1_doc.txt  
+│&emsp;├── child_2  
+│&emsp;│&emsp;├── child_2_2  
+│&emsp;│&emsp;│&emsp;├── deep_child.c  
+│&emsp;├── document.txt  
+│&emsp;├── images  
 
 ## 
 
