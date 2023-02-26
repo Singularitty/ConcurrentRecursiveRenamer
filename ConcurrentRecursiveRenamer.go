@@ -1,5 +1,5 @@
 /*
-	Author: Luís Ferreirinha N51127
+	Author: Luís Ferreirinha
 */
 
 package main
