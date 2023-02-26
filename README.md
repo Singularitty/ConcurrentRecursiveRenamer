@@ -13,7 +13,7 @@ The program will recursively go through the specified directory and rename each 
 
 E.g.:
 
-Before usage:
+Before usage:  
 ├── root_dir  
 │   ├── branch_1  
 │   │   ├── branch_1_doc.txt  
