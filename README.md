@@ -19,7 +19,7 @@ Before usage:
 │   │   ├── branch_1_doc.txt  
 │   ├── branch_2  
 │   │   ├── branch_2_2  
-│   │   │   ├── deep_branch.c  
+│   │   │     ├── deep_branch.c  
 │   ├── document.txt  
 │   ├── images  
 
@@ -35,7 +35,7 @@ After usage:
 │   │   ├── child_1_doc.txt  
 │   ├── child_2  
 │   │   ├── child_2_2  
-│   │   │   ├── deep_child.c  
+│   │   │      ├── deep_child.c  
 │   ├── document.txt  
 │   ├── images  
 
